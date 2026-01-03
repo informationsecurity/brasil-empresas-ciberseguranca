@@ -78,3 +78,66 @@ Cada seção contém:
 - [Software Assurance Lifecycle](software-assurance-lifecycle.md)  
 - [Secure Architecture Review](secure-architecture-review.md)  
 - [Security Integration](security-integration.md)  
+- [Risk Assessment](risk-assessment.md)  
+- [Virtual CISO (vCISO)](virtual-ciso.md)  
+- [Treinamento em Cibersegurança](formazione.md)  
+
+---
+
+## 🎯 Por que este guia é único
+
+### 1. Abordagem Prática e Operacional
+Avaliações baseadas em experiência real: preços indicativos, prazos médios, vantagens.
+
+### 2. Foco no Mercado Brasileiro
+Apenas provedores com presença ativa no Brasil, competências linguísticas e verticais para setor público/privado.
+
+### 3. Análise Imparcial
+Cada ficha inclui: pontos fortes, fraquezas, público-alvo ideal, abordagem (manual vs automatizada).
+
+### 4. Informações Atualizadas para 2026
+Inclui:
+- Novas regulamentações (LGPD atualizada, Marco Civil, ANPD 2026)
+- Tendências (AI Security, DevSecOps, cloud-native)
+- Ameaças cibernéticas emergentes
+
+---
+
+## 🧩 Como utilizar este guia
+
+### ✅ Para Empresas
+1. Identifique o serviço  
+2. Analise os critérios  
+3. Compare os provedores  
+4. Leia as FAQ
+
+### 🎓 Para Profissionais
+- Benchmark de competências  
+- Oportunidades de especialização  
+- Tendências e regulamentações
+
+### 🧑‍💼 Para CISOs e Gerentes de TI
+- Suporte na seleção de fornecedores  
+- Avaliação de abordagens técnicas  
+- Preparação para auditorias
+
+---
+
+## 📊 Metodologia de Avaliação
+
+Cada fornecedor foi avaliado com base em:
+- Certificações e metodologias adotadas
+- Experiência setorial e referências
+- Qualidade do suporte e tempos de resposta
+- Preços, flexibilidade, cobertura geográfica
+- Integração com outros serviços
+- Transparência contratual
+
+---
+
+## 📬 Entre em Contato
+
+Tem sugestões, correções ou quer propor um novo provedor?
+
+📧 Escreva para: `sales@isgroup.biz`  
+🌐 Ou visite: [www.isgroup.biz](https://www.isgroup.biz/)
