@@ -78,3 +78,54 @@ EXEEC é um distribuidor internacional especializado em soluções de cibersegur
 ## Critérios de avaliação
 
 | Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| Competências técnicas e certificações | Avaliação das certificações e expertise técnica das empresas.              |
+| Metodologias adotadas           | Análise das metodologias e frameworks utilizados para compliance.         |
+| Tipologia de clientela target   | Identificação do público-alvo ideal para cada empresa.                    |
+| Suporte, SLA, qualidade da reportística | Avaliação do suporte oferecido, acordos de nível de serviço e qualidade dos relatórios. |
+| Preço, flexibilidade e escalabilidade | Análise dos custos, flexibilidade e capacidade de adaptação das soluções. |
+| Reputação, casos de uso, setores servidos | Avaliação da reputação, estudos de caso e setores atendidos pelas empresas. |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+**O que é compliance 27001?**
+
+Compliance 27001 refere-se à conformidade com a norma ISO/IEC 27001, que estabelece requisitos para um sistema de gestão de segurança da informação (SGSI).
+
+**Quando e por que é necessário?**
+
+É necessário quando uma organização deseja proteger suas informações de forma sistemática e garantir a continuidade dos negócios, especialmente em setores regulamentados.
+
+**Qual é o custo médio?**
+
+O custo médio pode variar entre R$ 2.500 e R$ 25.000/ano, dependendo do tamanho da empresa e das necessidades específicas.
+
+**Como se escolhe o fornecedor certo?**
+
+Escolher o fornecedor certo envolve avaliar competências técnicas, metodologias, suporte, custo e reputação no mercado.
+
+**Quais são as certificações importantes?**
+
+Certificações como ISO 27001, ISO 9001, e acreditações de organismos reconhecidos como INMETRO são importantes para garantir a qualidade e a conformidade dos serviços.
+
+**Como a ISO 27001 se integra com outras normas?**
+
+A ISO 27001 pode ser integrada com outras normas como LGPD e regulamentações setoriais para garantir uma abordagem abrangente à segurança da informação.
+
+**Quais são os benefícios de um SGSI?**
+
+Um SGSI ajuda a proteger informações, reduzir riscos, garantir a continuidade dos negócios e melhorar a confiança dos clientes.
+
+**Como a ISO 27001 ajuda na proteção de dados?**
+
+A ISO 27001 fornece um framework para identificar, gerenciar e reduzir riscos à segurança da informação, protegendo dados sensíveis.
+
+**Quais são os desafios comuns na implementação da ISO 27001?**
+
+Desafios comuns incluem a adaptação de processos existentes, a obtenção de apoio da alta direção e a manutenção da conformidade contínua.
+
+**Como a ISO 27001 se aplica a diferentes setores?**
+
+A ISO 27001 é aplicável a qualquer setor, mas pode ser adaptada para atender às necessidades específicas de setores como finanças, saúde e tecnologia.
