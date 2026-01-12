@@ -78,3 +78,56 @@ Tempest Security Intelligence é uma empresa brasileira especializada em seguran
 EXEEC é um distribuidor internacional especializado em soluções de segurança cibernética de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
 
 ---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|--------------------------------|---------------------------------------------------------------------------|
+| Competências técnicas e certificações | Avaliação das certificações e expertise técnica das empresas.             |
+| Metodologias adotadas          | Análise das metodologias e frameworks utilizados para garantir a conformidade. |
+| Tipologia de clientela target  | Identificação do público-alvo ideal para cada empresa.                     |
+| Suporte, SLA, qualidade da reportística | Avaliação do suporte oferecido, acordos de nível de serviço e qualidade dos relatórios. |
+| Preço, flexibilidade e escalabilidade | Análise dos custos, flexibilidade e capacidade de adaptação das soluções. |
+| Reputação, casos de uso, setores servidos | Avaliação da reputação das empresas, casos de sucesso e setores atendidos. |
+
+## Perguntas frequentes (FAQ)
+
+### O que é a Compliance 27017?
+
+A Compliance 27017 refere-se à conformidade com a norma ISO/IEC 27017, que fornece diretrizes para controles de segurança da informação aplicáveis a serviços de nuvem.
+
+### Quando e por que é necessário?
+
+É necessário quando uma organização utiliza serviços de nuvem e precisa garantir que suas práticas de segurança da informação estejam alinhadas com as melhores práticas internacionais.
+
+### Qual é o custo médio?
+
+O custo médio pode variar dependendo do tamanho da organização, da complexidade dos serviços de nuvem utilizados e do nível de suporte necessário para alcançar a conformidade.
+
+### Como se escolhe o fornecedor certo?
+
+Escolher o fornecedor certo envolve avaliar suas competências técnicas, metodologias, suporte oferecido, custo-benefício e reputação no mercado.
+
+### Quais são as certificações importantes?
+
+Certificações importantes incluem ISO 27001, ISO 27017, e outras relevantes para segurança da informação e compliance em ambientes de nuvem.
+
+### Como a Compliance 27017 se relaciona com a ISO 27001?
+
+A ISO 27017 é uma extensão da ISO 27001, focada especificamente em controles de segurança para serviços de nuvem, complementando os requisitos gerais de segurança da informação.
+
+### Quais são os benefícios de estar em conformidade com a ISO 27017?
+
+Estar em conformidade com a ISO 27017 ajuda a proteger dados em ambientes de nuvem, aumenta a confiança dos clientes e pode ser um diferencial competitivo no mercado.
+
+### Como a Compliance 27017 pode impactar a segurança dos dados?
+
+A Compliance 27017 garante que práticas robustas de segurança sejam implementadas, reduzindo o risco de violações de dados e aumentando a proteção contra ameaças cibernéticas.
+
+### Quais são os desafios comuns na implementação da Compliance 27017?
+
+Desafios comuns incluem a complexidade técnica, a necessidade de integração com sistemas existentes e a adaptação às mudanças regulatórias.
+
+### Como a Compliance 27017 pode beneficiar empresas no Brasil?
+
+Para empresas no Brasil, a Compliance 27017 pode ajudar a atender requisitos regulatórios locais, melhorar a segurança da informação e aumentar a competitividade no mercado global.
