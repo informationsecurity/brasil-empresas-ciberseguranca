@@ -78,3 +78,55 @@ EXEEC é um distribuidor especializado em tecnologias ofensivas e cloud-native q
 
 ## Critérios de avaliação
 
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Competências técnicas**       | Certificações ISO, experiência em segurança na nuvem, equipe certificada |
+| **Metodologias**                | Gap analysis, auditoria, controle de acesso, classificação de dados     |
+| **Clientela target**            | PMEs, empresas, administração pública, ambientes regulamentados         |
+| **Suporte e relatórios**        | Qualidade da documentação, remediação, suporte contínuo                 |
+| **Flexibilidade e preço**       | Serviços personalizados, escalabilidade, modularidade                   |
+| **Reputação**                   | Casos de estudo, depoimentos, certificações obtidas                     |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é a Compliance 27018?
+
+A ISO/IEC 27018 é um padrão internacional para a proteção de dados pessoais (PII) em serviços de nuvem. Especifica controles técnicos, contratuais e organizacionais que os provedores devem adotar para garantir privacidade e segurança.
+
+### Quando e por que é necessária?
+
+É fundamental para quem gerencia dados pessoais na nuvem, especialmente em setores regulamentados ou com clientes europeus. Permite demonstrar accountability e aderência ao GDPR.
+
+### Qual é o custo médio?
+
+Depende do nível de personalização, da complexidade do ambiente de nuvem e do estado atual da documentação. As PMEs podem começar com alguns milhares de reais, as grandes empresas com dezenas de milhares.
+
+### Como se escolhe o fornecedor certo?
+
+Avalie a experiência, as certificações, o suporte pós-auditoria e a capacidade de se adaptar às suas necessidades específicas. A checklist deste guia ajuda a comparar as alternativas de forma estruturada.
+
+### Quais são as certificações importantes?
+
+ISO/IEC 27001 (pré-requisito), ISO/IEC 27018, SOC 2, GDPR readiness. Atenção também à conformidade dos provedores de nuvem (ex. AWS, Azure, GCP).
+
+### Quem é responsável pela conformidade na nuvem?
+
+Segundo o modelo de responsabilidade compartilhada, tanto o cliente quanto o provedor têm papéis precisos. A ISO 27018 ajuda a definir essas fronteiras e documentar cada atividade.
+
+### Serve também para SaaS?
+
+Sim, especialmente para software que trata dados sensíveis de usuários ou clientes. É uma vantagem competitiva em relação aos clientes finais e em licitações públicas.
+
+### É suficiente a certificação do provedor de nuvem?
+
+Não. A responsabilidade permanece também do titular do tratamento (você). Deve verificar políticas, controles e práticas de segurança em todo o ciclo de vida dos dados.
+
+### Posso me certificar mesmo usando múltiplos provedores de nuvem?
+
+Sim. Algumas empresas oferecem soluções multi-nuvem e ferramentas para gerenciar a conformidade ISO 27018 mesmo em ambientes complexos e distribuídos.
+
+### Existem ferramentas automáticas para a conformidade?
+
+Sim. Alguns provedores oferecem ferramentas para classificação de dados, análise de logs, verificação de políticas e trilha de auditoria. No entanto, a orientação humana permanece essencial para uma conformidade real.
