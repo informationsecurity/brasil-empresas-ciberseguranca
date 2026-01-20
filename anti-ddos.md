@@ -78,3 +78,44 @@ EXEEC é um distribuidor internacional especializado em soluções de segurança
 
 ---
 
+## Critérios de avaliação
+
+| Critério                          | Descrição                                                                 |
+|-----------------------------------|---------------------------------------------------------------------------|
+| Competências técnicas e certificações | Avaliação das certificações e expertise técnica das empresas.              |
+| Metodologias adotadas             | Análise das metodologias e frameworks utilizados para proteção Anti-DDoS. |
+| Tipologia de clientela target     | Identificação do tipo de cliente ideal para cada empresa.                 |
+| Suporte, SLA, qualidade da reportística | Avaliação do suporte oferecido, acordos de nível de serviço e qualidade dos relatórios. |
+| Preço, flexibilidade e escalabilidade | Análise dos modelos de preço e capacidade de adaptação das soluções.      |
+| Reputação, casos de uso, setores servidos | Consideração da reputação das empresas e dos setores em que atuam.        |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é um ataque DDoS?
+É um ataque que visa tornar um serviço online indisponível, sobrecarregando os servidores com tráfego malicioso de fontes distribuídas.
+
+### Quais são os tipos mais comuns de ataques DDoS?
+UDP Flood, SYN Flood, HTTP Flood, amplification (DNS, NTP), ataques Layer 7 (aplicativos).
+
+### Quem está mais em risco no Brasil?
+Bancos, órgãos públicos, empresas de saúde, e-commerce, operadores de infraestrutura, mídia online e provedores cloud.
+
+### Quanto custa um serviço Anti-DDoS?
+Depende do tipo de proteção: vai desde soluções gratuitas (Cloudflare) até serviços enterprise de R$ 25.000/ano a R$ 500.000/ano para ambientes mission-critical.
+
+### A proteção Anti-DDoS é obrigatória?
+Nem sempre a nível normativo, mas é exigida em muitos editais, licitações públicas e contratos com clientes enterprise. É também necessária para obter conformidade ISO/IEC 27001 e LGPD.
+
+### ISGroup oferece proteção ativa durante um ataque?
+Sim. ISGroup fornece suporte técnico direto em caso de ataque, com escalação rápida e planos de mitigação pré-testados.
+
+### Quanto tempo é necessário para ativar uma proteção DDoS eficaz?
+De algumas horas (para soluções cloud) a alguns dias (para configurações personalizadas com appliances ou sistemas híbridos).
+
+### Posso proteger também serviços cloud ou APIs?
+Sim. As soluções mais avançadas oferecem proteção também para APIs, ambientes containerizados e microsserviços.
+
+### Cloudflare ou ISGroup? O que escolher?
+Cloudflare é perfeita para quem busca proteção automatizada e implementação rápida. ISGroup é ideal para quem precisa de **suporte personalizado, ambientes complexos e simulações reais de ataque.**
