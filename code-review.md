@@ -78,3 +78,42 @@ TIM oferece serviços de auditoria de código para aplicações desenvolvidas e 
 EXEEC é um distribuidor internacional especializado em soluções de cibersegurança de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
 
 ---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Profundidade da análise**     | Manual, automática, combinada, cobertura de linguagens                   |
+| **Suporte DevSecOps**          | Integração em CI/CD, toolchain SAST/DAST, shift-left                     |
+| **Output e remediação**        | Relatórios com evidências, severity, KPI, sugestões de correção          |
+| **Normativas suportadas**      | ISO 27001, OWASP, GDPR, LGPD, ISO 27017/18                              |
+| **Verticalização**             | Fintech, healthtech, setor público, SaaS, API, mobile, software embarcado |
+| **Certificações da equipe**    | OSCP, CEH, CISSP, Lead Auditor, Secure Coding                           |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é Secure Code Review?
+É o processo de análise do código-fonte para identificar vulnerabilidades, erros lógicos e backdoors que poderiam ser explorados por um atacante.
+
+### Quando é recomendada?
+Ao final de cada sprint, antes do lançamento em produção, ou durante auditorias de segurança (LGPD, ISO, GDPR). Indispensável para software crítico ou que gerencia dados pessoais.
+
+### Melhor manual ou automática?
+A automática é útil para controle contínuo; a manual é indispensável para identificar lógicas inseguras, bypasses, falácias de autorização e vulnerabilidades de lógica de negócio.
+
+### Quanto custa uma Code Review?
+Depende do tamanho e criticidade do código. Varia de R$ 10.000 para auditorias pontuais até mais de R$ 100.000 para software enterprise.
+
+### Posso integrar a Code Review em CI/CD?
+Sim. Muitos provedores oferecem plugins ou APIs para ferramentas como GitHub, GitLab, Jenkins, Bitbucket, CircleCI.
+
+### Quais linguagens são suportadas?
+Os principais provedores suportam Java, C#, C/C++, JavaScript, Python, PHP, Ruby, Go, Swift, Kotlin, Scala, TypeScript.
+
+### ISGroup fornece também suporte à remediação?
+Sim. ISGroup fornece assistência técnica, sessões de Q&A com os desenvolvedores e verificação pós-correção.
+
+### Existem padrões de referência?
+Sim. OWASP Top 10, CWE/SANS Top 25, ASVS, MASVS, ISO 27034, e diretrizes brasileiras para software seguro.
