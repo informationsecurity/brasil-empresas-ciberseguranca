@@ -78,3 +78,43 @@ TIM oferece simulações de ataque integradas em seus próprios ambientes cloud 
 
 EXEEC é um distribuidor internacional especializado em soluções de segurança cibernética de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte técnico contínuo e formação estratégica.
 
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Realismo dos ataques**        | Técnicas APT, cenários ransomware, insider threat, TTP reais                  |
+| **Âmbitos cobertos**            | IT, OT, IoT, cloud, mobile, SaaS, container, CI/CD                           |
+| **Metodologia**                 | MITRE ATT&CK, red teaming, adversary emulation, purple teaming               |
+| **Integração detection**        | SIEM, SOC, EDR, SOAR, teste de playbook                                      |
+| **Suporte à remediação**        | Relatório técnico, evidências, correções priorizadas, Q&A com as equipes     |
+| **Compliance**                  | LGPD, ISO 27001, NIS2, OWASP, regulamentações brasileiras                    |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é uma Simulação de Ameaças Cibernéticas (CTS)?
+É uma simulação controlada de ataques cibernéticos realísticos conduzida para testar a resiliência da empresa, a capacidade de detecção e a prontidão do SOC.
+
+### Qual é a diferença com um Penetration Test?
+O Pen Test busca vulnerabilidades. O CTS simula um comprometimento com técnicas avançadas e avalia detecção e resposta, não apenas exposição técnica.
+
+### Quem deveria fazer uma simulação de ameaça?
+Empresas em setores regulamentados, quem gerencia dados críticos ou está exposto a ransomware, e quem quer testar a eficácia do próprio SOC ou playbook.
+
+### Quanto custa um CTS no Brasil em 2026?
+Entre R$ 25.000 e R$ 250.000 dependendo da complexidade, duração e número de cenários simulados.
+
+### ISGroup fornece também exercitações de resposta a incidentes?
+Sim. As simulações ISGroup incluem sessões ao vivo com as equipes IT/SOC, validação dos playbooks e suporte na definição dos planos de melhoria.
+
+### Quanto dura um exercício de simulação?
+De poucos dias (exercitação direcionada) até 4 semanas para um red team persistente com múltiplos cenários (cloud, on-prem, insider).
+
+### É obrigatório por lei?
+CTS ainda não é obrigatório, mas é requerido nos frameworks LGPD, ISO/IEC 27001, e em licitações públicas de alta criticidade.
+
+### Posso fazer uma simulação sem interromper a atividade?
+Sim. Os testes são conduzidos de modo "stealth", sem impactar os serviços, mas gerando logs e eventos como se fosse um ataque real.
