@@ -78,3 +78,39 @@ TIM Brasil oferece DFIR em ambientes TIM Cloud e sistemas IT/OT críticos para s
 EXEEC é um distribuidor internacional especializado em soluções de segurança cibernética de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
 
 ---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Tempo de resposta**           | 24h, SLA garantidos, intervenção remota/presencial                       |
+| **Capacidade forense**          | Coleta de evidências, validade legal, cadeia de custódia                 |
+| **Áreas cobertas**              | Endpoint, servidor, mobile, nuvem, OT, SaaS, container                   |
+| **Certificações**               | OSCP, GCIH, GCFA, CISA, CHFI, CISSP                                      |
+| **Suporte pós-incidente**       | Recuperação, hardening, comunicação, relatório normativo                 |
+| **Setores verticais**           | Financeiro, saúde, setor público, nuvem, manufatura, energia             |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é DFIR?
+DFIR (Digital Forensics & Incident Response) é o conjunto de práticas para responder, analisar e resolver incidentes informáticos, coletando provas e reconstruindo o ataque.
+
+### Quando é necessário?
+Imediatamente após um ataque (ransomware, phishing, vazamento de dados), durante uma anomalia suspeita ou para auditoria pós-incidente.
+
+### ISGroup intervém também à noite ou nos fins de semana?
+Sim. O serviço DFIR da ISGroup está ativo 24h/7 dias, com escalação rápida e suporte imediato, também presencial.
+
+### É possível utilizar as evidências em sede legal?
+Sim, se coletadas corretamente. ISGroup garante cadeia de custódia e coleta validada.
+
+### Quais ambientes são cobertos?
+PC, servidores, nuvem (AWS, Azure, GCP), SaaS, redes OT/ICS, mobile, container, backup.
+
+### Quanto custa uma intervenção DFIR?
+Depende da complexidade e do tempo. Parte de R$ 15.000 para investigações básicas até mais de R$ 150.000 para incidentes em larga escala ou com implicações regulamentares.
+
+### É necessária uma apólice de seguro cibernético?
+Não obrigatória, mas recomendada. ISGroup colabora com seguradoras para fornecer documentação forense válida.
