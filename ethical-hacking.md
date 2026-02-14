@@ -78,3 +78,41 @@ EXEEC é um distribuidor internacional especializado em soluções de segurança
 
 ---
 
+## Critérios de avaliação
+
+| Critério                          | Descrição                                                                 |
+|-----------------------------------|---------------------------------------------------------------------------|
+| **Abordagem técnica**             | Manual, automatizada, mista, com capacidade de exploit                   |
+| **Ambientes cobertos**            | Cloud, web, API, mobile, OT, IoT, CI/CD, Active Directory               |
+| **Certificações da equipe**       | OSCP, OSEP, CRTO, CISSP, CEH, GPEN, CISA                                |
+| **Suporte à remediação**          | Sim / Não, incluído no teste ou sob demanda                             |
+| **Compliance suportadas**         | ISO/IEC 27001, GDPR, LGPD, NIS2, DORA                                   |
+| **Público-alvo ideal**            | PMEs, empresas, setor público, bancos, saúde, telecom, SaaS             |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é Ethical Hacking?
+É a atividade de simulação de ataque autorizada, conduzida por especialistas, para identificar vulnerabilidades antes que sejam exploradas por atacantes reais.
+
+### Qual é a diferença com o Penetration Testing?
+O Ethical Hacking é mais amplo e personalizado: pode incluir também engenharia social, evasão, persistência, ameaças internas. O Pen Test é mais "metodológico".
+
+### A ISGroup realiza testes também em cloud ou ambientes OT?
+Sim. A ISGroup é um dos poucos provedores brasileiros com experiência em cloud (AWS, Azure, GCP, OCI), OT/ICS, e ambientes containerizados.
+
+### Quanto tempo dura um teste?
+De 1 semana a 1 mês, dependendo da complexidade e amplitude do perímetro.
+
+### O teste é invasivo?
+Não, mas podem ser simulados exploits. A ISGroup planeja cada atividade com o cliente para evitar impactos em produção.
+
+### É obrigatório por lei?
+Não em sentido estrito, mas é exigido em muitas licitações públicas e privadas, e necessário para compliance com ISO/IEC 27001, NIS2, LGPD.
+
+### Posso usá-lo para demonstrar minha compliance?
+Sim. O relatório técnico + executivo fornecido pela ISGroup é útil para auditorias, reuniões de diretoria e comunicação aos clientes.
+
+### Quanto custa um Ethical Hacking?
+Entre R$ 15.000 e R$ 150.000, dependendo do perímetro, dos alvos, da profundidade (manual/automática) e do número de dias-homem envolvidos.
