@@ -78,3 +78,82 @@ Accenture oferece formação em transformação digital, ideal para empresas que
 EXEEC é um distribuidor internacional especializado em soluções de cibersegurança de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
 
 ---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Público-alvo**                | CISO, desenvolvedores, TI, usuários, diretoria, órgãos públicos, PMEs    |
+| **Conteúdo**                    | Conscientização, técnica, normativa, compliance, ofensiva, DFIR          |
+| **Modalidade de entrega**       | Presencial, on-site, online, híbrida                                     |
+| **Validade para auditoria**     | Certificado, registro de participantes, resultados de testes             |
+| **Idioma**                      | Português, inglês                                                         |
+| **Certificações suportadas**    | OSCP, CISSP, CEH, ISO, DPO, CISA                                         |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### Por que é importante a formação em cibersegurança em 2026?
+Porque as ameaças crescem e mudam a cada mês. O treinamento contínuo reduz os riscos humanos, melhora a detecção e fortalece a postura de segurança.
+
+### ISGroup emite certificados?
+Sim. Todos os cursos da ISGroup incluem certificado de participação, útil para auditorias e demonstração de conformidade.
+
+### É possível fazer formação sob medida?
+Absolutamente. A ISGroup personaliza conteúdos, duração, idioma e modalidades com base no contexto empresarial.
+
+### Existem cursos técnicos práticos?
+Sim. A ISGroup oferece workshops com simulações, exploits guiados, revisão de código ao vivo e mini-red teaming.
+
+### O treinamento é válido para fins de conformidade?
+Sim. Formação e conscientização são exigidas pela ISO/IEC 27001, LGPD e outras normas regulamentares.
+
+### Quanto custa um curso?
+Depende do número de participantes, duração e conteúdos. Começa em cerca de R$ 5.000 para módulos básicos, até projetos formativos completos a partir de R$ 25.000.
+
+### Existem cursos para usuários não técnicos?
+Sim. A conscientização para usuários é um dos pilares: phishing, senhas, uso seguro das ferramentas digitais.
+
+### A ISGroup oferece cursos também remotamente?
+Sim. Todos os cursos estão disponíveis tanto online quanto presencialmente, com instrutores ao vivo e materiais interativos.
+
+### O que é formação?
+
+Formação refere-se ao processo de aquisição de conhecimentos, habilidades e competências em um determinado campo, geralmente através de cursos, workshops ou programas educacionais.
+
+### Quando e por que é necessário?
+
+A formação é necessária quando há uma necessidade de atualização de habilidades, adaptação a novas tecnologias ou cumprimento de requisitos regulamentares. É essencial para manter a competitividade e a eficiência no mercado de trabalho.
+
+### Qual é o custo médio?
+
+O custo médio da formação pode variar amplamente dependendo do tipo de curso, duração e prestígio do provedor. É importante avaliar o retorno sobre o investimento ao considerar o custo.
+
+### Como se escolhe o fornecedor certo?
+
+Escolher o fornecedor certo envolve considerar fatores como reputação, qualidade dos cursos, suporte oferecido e alinhamento com os objetivos de formação da empresa ou indivíduo.
+
+### Quais são as certificações importantes?
+
+Certificações importantes podem incluir ISO 9001, ISO/IEC 27001, e outras específicas do setor, como certificações em segurança cibernética, gestão de projetos ou tecnologias específicas.
+
+### Quais são as vantagens da formação online?
+
+A formação online oferece flexibilidade, acessibilidade e uma ampla gama de cursos disponíveis, permitindo que os alunos aprendam no seu próprio ritmo e de qualquer lugar.
+
+### Como a formação pode impactar a carreira?
+
+A formação pode melhorar significativamente as perspectivas de carreira, proporcionando novas habilidades, aumentando a empregabilidade e possibilitando avanços na carreira.
+
+### Quais são os benefícios da formação personalizada?
+
+A formação personalizada é adaptada às necessidades específicas do aluno ou da empresa, garantindo que o conteúdo seja relevante e aplicável, o que pode aumentar a eficácia do aprendizado.
+
+### Como a formação pode ajudar na conformidade regulatória?
+
+A formação pode ajudar as empresas a entender e cumprir as regulamentações relevantes, evitando penalidades e garantindo operações seguras e eficientes.
+
+### Quais são as tendências futuras na formação?
+
+Tendências futuras na formação incluem o uso de tecnologias emergentes como inteligência artificial, realidade aumentada e aprendizagem adaptativa para criar experiências de aprendizado mais envolventes e eficazes.
