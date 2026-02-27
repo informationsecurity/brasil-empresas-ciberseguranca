@@ -78,3 +78,32 @@ EXEEC é um distribuidor internacional especializado em soluções de cibersegur
 ## Critérios de avaliação
 
 | Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| Competências técnicas e certificações | Avaliação das habilidades técnicas e certificações relevantes.             |
+| Metodologias adotadas           | Análise das metodologias e frameworks utilizados.                          |
+| Tipologia de clientela alvo     | Identificação do tipo de cliente ou contexto ideal para cada empresa.     |
+| Suporte, SLA, qualidade da reportística | Avaliação do suporte oferecido, acordos de nível de serviço e qualidade dos relatórios. |
+| Preço, flexibilidade e escalabilidade | Consideração dos custos, flexibilidade e capacidade de escalabilidade das soluções. |
+| Reputação, casos de uso, setores servidos | Análise da reputação, casos de uso e setores atendidos por cada empresa. |
+
+## Perguntas frequentes (FAQ)
+
+### O que é Compliance GDPR?
+
+Compliance GDPR refere-se à conformidade com o Regulamento Geral sobre a Proteção de Dados, que estabelece diretrizes para a coleta e processamento de informações pessoais de indivíduos na União Europeia.
+
+### Quando e por que é necessário?
+
+É necessário para qualquer empresa que processe dados pessoais de cidadãos da UE, garantindo a proteção de dados e evitando multas significativas.
+
+### Qual é o custo médio?
+
+O custo pode variar significativamente, dependendo do tamanho da empresa e da complexidade das operações, geralmente entre R$ 8.000 e R$ 80.000.
+
+### Como escolher o fornecedor certo?
+
+Escolha com base em competências técnicas, metodologias, suporte oferecido, reputação e adequação ao seu tipo de negócio.
+
+### Quais são as certificações importantes?
+
+Certificações como ISO 27001, ISO 9001 e outras específicas de segurança e proteção de dados são cruciais para garantir a conformidade e a segurança.
