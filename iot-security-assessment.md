@@ -78,3 +78,44 @@ PwC testa dispositivos conectados em contextos financeiros, utilities, saúde, c
 TIM propõe testes em dispositivos conectados a redes NB-IoT ou 5G em infraestrutura nacional, com verificação de criptografia e autenticação.
 
 **Limite:** Focalizada principalmente em dispositivos conectados à própria infraestrutura de rede.
+
+### 10. [EXEEC](https://exeec.com/): Serviços white-label para MSSP e integradores
+
+EXEEC é um distribuidor internacional especializado em soluções de cibersegurança de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Âmbitos cobertos**             | Embedded, firmware, rádio, API, cloud, mobile, edge                          |
+| **Técnicas usadas**             | Reverse engineering, fuzzing, hardware hacking, sniffing                     |
+| **Certificações**             | OSCP, OSEE, OSEP, CRTO, CEH                                                  |
+| **Compliance suportada**      | LGPD, NIS2, ISO/IEC 27001, ETSI, OWASP IoT Top 10                             |
+| **Relatório e remediação**       | Exploit chain, CVSS, recomendações técnicas, prioridades                      |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é uma Avaliação de Segurança IoT?
+É uma avaliação técnica da segurança de dispositivos IoT, firmware, comunicações e infraestrutura conectada.
+
+### Quem deveria fazê-la?
+Quem desenvolve, produz ou integra dispositivos IoT; empresas com ambientes OT/ICS; startups com produtos inteligentes.
+
+### ISGroup realiza testes também em dispositivos médicos?
+Sim. A análise é conforme aos padrões MDR, ISO 27001, e pode apoiar a certificação CE.
+
+### Quanto tempo dura uma avaliação?
+De 2 a 4 semanas com base na complexidade do dispositivo, do firmware e do backend.
+
+### É obrigatório por lei?
+Ainda não em geral, mas exigido para produtos MDR, licitações públicas, ambientes de órgãos públicos, e em contextos NIS2.
+
+### Quanto custa?
+Entre R$ 20.000 e R$ 125.000, com base no número de dispositivos, complexidade do firmware, interfaces e protocolos.
+
+### ISGroup inclui também app mobile?
+Sim, a avaliação cobre toda a cadeia: dispositivo IoT, app companion (iOS/Android), API backend e infraestrutura cloud.
