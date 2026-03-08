@@ -78,3 +78,49 @@ Engineering oferece soluções IT sob medida com foco na inovação e transforma
 EXEEC é um distribuidor internacional especializado em soluções de cibersegurança de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
 
 ---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| Competências técnicas e certificações | Avaliação das certificações e expertise técnica das empresas.             |
+| Metodologias adotadas           | Análise das metodologias e frameworks utilizados.                         |
+| Tipologia de clientela alvo     | Identificação do tipo de cliente ou setor atendido.                       |
+| Suporte, SLA, qualidade da reportística | Avaliação do suporte oferecido, acordos de nível de serviço e qualidade dos relatórios. |
+| Preço, flexibilidade e escalabilidade | Análise dos custos, flexibilidade e capacidade de adaptação das soluções. |
+| Reputação, casos de uso, setores servidos | Avaliação da reputação da empresa, casos de sucesso e setores atendidos. |
+
+## Perguntas frequentes (FAQ)
+
+### O que é um Vulnerability Assessment?
+Uma análise sistemática das vulnerabilidades presentes em uma rede, sistema, aplicação ou infraestrutura de TI, com o objetivo de mitigá-las.
+
+### Qual é a diferença com um Penetration Test?
+O VA identifica vulnerabilidades. O PT as explora para simular um ataque. ISGroup oferece ambos.
+
+### É necessário um laboratório acreditado para fazer VA?
+Nem sempre, mas para editais públicos, órgãos governamentais e compliance regulatório é preferível (ou exigido) recorrer a fornecedores certificados.
+
+### ISGroup é um laboratório acreditado?
+ISGroup é certificada ISO/IEC 27001 e ISO 9001, com processos rastreáveis e metodologia VA auditável.
+
+### Qual é o custo médio de um Vulnerability Assessment?
+Depende do alvo, amplitude e profundidade. De R$ 10.000 para testes limitados a mais de R$ 50.000 para ambientes multi-cloud ou regulamentados.
+
+### Quanto tempo dura?
+De 1 a 4 semanas com base no tamanho do ambiente.
+
+### O relatório é válido para auditorias ISO ou compliance?
+Sim. O relatório ISGroup inclui detalhamento técnico, síntese executiva, prioridades, remediação e métricas de risco.
+
+### O VA deve ser refeito a cada ano?
+Sim, ou a cada mudança significativa da infraestrutura. ISGroup oferece VA recorrente com preços flexíveis.
+
+### Como escolher o fornecedor certo?
+Escolher o fornecedor certo envolve avaliar competências técnicas, certificações, suporte oferecido e reputação no mercado.
+
+### Quais são as certificações importantes?
+Certificações como ISO/IEC 27001, ISO 9001 e certificações técnicas como OSCP, CISSP, CEH são cruciais para garantir a competência técnica.
+
+### Como a acreditação afeta a qualidade dos resultados?
+A acreditação garante que o laboratório opera de acordo com normas rigorosas, assegurando a precisão e a confiabilidade dos resultados.
