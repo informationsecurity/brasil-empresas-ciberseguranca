@@ -78,3 +78,41 @@ Symantec fornece soluções de segurança integradas, incluindo proteção para 
 EXEEC é um distribuidor internacional especializado em soluções de segurança cibernética de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
 
 ---
+
+## Critérios de avaliação
+
+| Critério                          | Descrição                                                                 |
+|-----------------------------------|---------------------------------------------------------------------------|
+| **Plataformas cobertas**          | iOS, Android, híbrido, PWA                                               |
+| **Tipos de teste**                | Estático (SAST), Dinâmico (DAST), Runtime (RASP), API fuzzing            |
+| **Padrões de referência**         | OWASP MASVS, OWASP Mobile Top 10, LGPD, PCI DSS                          |
+| **Relatório**                     | Detalhado, executivo, com remediação e evidências                        |
+| **Ferramentas**                   | Frida, Burp Suite, MobSF, jadx, Ghidra, scripts customizados            |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é um Mobile Application Security Test?
+É uma análise técnica que verifica a segurança de uma aplicação móvel, incluindo vulnerabilidades de código, dados, autenticação, criptografia e comunicações.
+
+### ISGroup testa também as APIs conectadas ao app?
+Sim. A abordagem é end-to-end: app, API, backend, sessões, identidade e cloud.
+
+### O teste é compatível com MASVS e OWASP?
+Sim. Todos os testes ISGroup seguem os níveis MASVS L1-L2, OWASP Mobile Top 10, e padrões LGPD.
+
+### Quanto custa um teste em uma aplicação?
+Entre R$ 15.000 e R$ 50.000 dependendo do número de funcionalidades, APIs, plataformas e técnicas requeridas.
+
+### O teste é invasivo? Pode causar mau funcionamento?
+Não. Todas as atividades são simuladas em ambiente de teste controlado. Possibilidade de operar em builds específicas (test build).
+
+### Quanto tempo demora?
+De 1 a 3 semanas com base na profundidade, recursos, backend e APIs.
+
+### O relatório pode ser usado para auditorias LGPD ou PCI?
+Sim. O relatório ISGroup é detalhado, rastreável e pronto para auditores, CISO, DPO e licitações.
+
+### Vocês oferecem também retesting pós-correção?
+Sim. Está incluído gratuitamente dentro de 30 dias do teste, em questões críticas.
