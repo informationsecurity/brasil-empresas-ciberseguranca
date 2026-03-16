@@ -78,3 +78,38 @@ Accenture oferece serviços de MDR com foco em inovação e transformação digi
 EXEEC é um distribuidor internacional especializado em soluções de segurança cibernética de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
 
 ---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Sinais cobertos**            | EDR, rede, identidade, nuvem, OT, email                                  |
+| **Resposta ativa**             | Playbooks, contenção, escalação, snapshot forense                        |
+| **Detecção**                   | IOC, comportamental, anomalia, threat hunting                            |
+| **Compliance suportada**       | ISO/IEC 27001, LGPD, GDPR, normas setoriais                             |
+| **Entrega**                    | Totalmente gerenciado, co-gerenciado, white-label                        |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é um serviço MDR Multi-Signal?
+É um serviço gerenciado de detecção e resposta que integra sinais de segurança de múltiplas fontes (endpoint, rede, nuvem, identidade, etc.) para detectar e responder a ameaças avançadas.
+
+### ISGroup oferece MDR também para ambientes nuvem e OT?
+Sim. O serviço cobre ambientes AWS, Azure, Google Cloud, sistemas OT/ICS, e dispositivos IoT.
+
+### O serviço está disponível 24h?
+Sim. ISGroup opera com SOC interno ativo 24/7.
+
+### Quanto custa um MDR Multi-Signal?
+Depende de usuários, sinais, ativos e serviços solicitados. Soluções PME a partir de ~R$ 4.000/mês, enterprise a partir de R$ 15.000/mês.
+
+### Posso usar o MDR para compliance?
+Sim. ISGroup fornece relatórios e documentação para LGPD, ISO/IEC 27001 e outras normas setoriais.
+
+### É necessário já ter EDR ou SIEM?
+Não. ISGroup pode fornecer sensores (agentes, coletores) como parte do serviço.
+
+### Estão incluídos threat hunting e playbooks?
+Sim. ISGroup inclui hunting contínuo, ajustes, e resposta automatizada com playbooks predefinidos ou customizados.
