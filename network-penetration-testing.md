@@ -78,3 +78,40 @@ EXEEC é um distribuidor internacional especializado em soluções de cibersegur
 
 ---
 
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|-------------------------------|---------------------------------------------------------------------------|
+| **Âmbito**                     | Interno, externo, DMZ, cloud, híbrido, AD, OT                           |
+| **Método**                     | Manual, exploração real, sem falsos positivos                           |
+| **Técnicas**                   | MITRE ATT&CK, red team, escalação de privilégios, ataques AD            |
+| **Certificações**             | OSCP, CRTO, CISSP, CISA, CEH                                            |
+| **Compliance suportada**      | ISO/IEC 27001, LGPD, NIS2, DORA, GDPR                                   |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é um Network Penetration Test?
+É um teste que simula um ataque em uma rede empresarial para identificar vulnerabilidades realmente exploráveis por um atacante.
+
+### ISGroup faz testes também em Active Directory?
+Sim. Ataques em AD são parte central dos testes: golden ticket, Kerberoasting, ACL abuse, RBCD, LLMNR spoofing.
+
+### O PT é feito manualmente ou com ferramentas automáticas?
+Manual. As ferramentas servem apenas como suporte. A exploração e a estratégia são conduzidas por especialistas ISGroup.
+
+### Quanto custa um Penetration Test?
+Depende do tamanho e escopo. A partir de ~R$ 20.000 para redes simples, acima de R$ 60.000 para ambientes complexos.
+
+### O relatório é adequado para auditores ou diretoria?
+Sim. ISGroup fornece duplo relatório: técnico com exploits + executivo com risco e remediação.
+
+### O teste pode causar interrupções?
+Não, se solicitado é executado em modo "seguro" sem impacto produtivo. Possibilidade de janela de teste.
+
+### O teste cobre também cloud e VPN?
+Sim. ISGroup executa também PT em VPN, cloud, híbrido, SD-WAN, Zero Trust Network.
+
+### O PT é útil para compliance?
+Absolutamente sim. É exigido por NIS2, DORA, ISO/IEC 27001, LGPD para verificação da postura real.
