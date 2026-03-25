@@ -78,3 +78,42 @@ TIM suporta administração pública e empresas regulamentadas com serviços ger
 
 EXEEC é um distribuidor internacional especializado em soluções de cibersegurança de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
 
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Obrigações cobertas**         | Art. 21 NIS2: governança, risco, cadeia de suprimentos, BC/DR, incidentes |
+| **Medidas técnicas**            | MFA, pentest, SOC, EDR/XDR, gerenciamento de vulnerabilidades            |
+| **Suporte documental**          | Análise de gap, roadmap, checklist, preparação para auditoria            |
+| **Integração de conformidade**  | ISO/IEC 27001, GDPR, ACN, DORA, PCI DSS                                  |
+| **Entrega**                     | Auditoria, consultoria, serviços gerenciados, treinamento                |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### Quem é obrigado à conformidade NIS2?
+Entidades públicas e privadas nos setores: energia, transportes, bancos, saúde, infraestruturas digitais, fornecedores de TI e administração pública. ISGroup ajuda a verificar se você está sujeito.
+
+### Quais são as sanções NIS2?
+Até 10 milhões de euros ou 2% do faturamento global, suspensão da gestão, inspeções ACN.
+
+### ISGroup fornece também serviços gerenciados (SOC, vCISO)?
+Sim. Para garantir continuidade 24h e suporte prático à conformidade técnica e estratégica.
+
+### Quanto dura um projeto NIS2?
+De 4 a 12 semanas com base no tamanho, maturidade e urgência. Possibilidade de roadmap em fases.
+
+### Quanto custa?
+A partir de ~R$ 35.000 para análise de gap e roadmap. Projetos completos a partir de R$ 100.000 para sujeitos essenciais.
+
+### ISGroup suporta também a notificação de incidentes?
+Sim. Fornece processo, simulações tabletop, playbook e documentação para notificação ACN dentro de 24h.
+
+### O projeto cobre também a cadeia de suprimentos?
+Sim. ISGroup analisa a cadeia de fornecimento de TI e sugere medidas para reduzir o risco.
+
+### É necessário refazer a conformidade todos os anos?
+Deve ser mantida: ISGroup propõe check-ups anuais, atualizações e monitoramento contínuo.
