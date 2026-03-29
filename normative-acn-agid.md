@@ -78,3 +78,55 @@ PwC oferece consultoria em segurança cibernética com foco em compliance e gest
 
 Capgemini oferece soluções de TI e segurança cibernética, com foco em compliance e transformação digital. Ideal para empresas que buscam integração tecnológica e modernização.
 
+**Limite:** Mais orientada para transformação digital e compliance do que para testes de penetração manuais e personalizados.
+
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologias avançadas
+
+EXEEC é um distribuidor internacional especializado em soluções de segurança cibernética de alta eficácia. Ideal para grandes organizações com ambientes críticos, oferece suporte contínuo e soluções técnicas de alto impacto.
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Competências técnicas e certificações** | Avaliação das certificações e expertise técnica das empresas.              |
+| **Metodologias adotadas**           | Análise das metodologias utilizadas para garantir a conformidade e segurança. |
+| **Tipologia de clientela alvo**     | Identificação do tipo de cliente ou setor que cada empresa atende melhor.   |
+| **Suporte, SLA, qualidade da reportística** | Avaliação do suporte oferecido, acordos de nível de serviço e qualidade dos relatórios. |
+| **Preço, flexibilidade e escalabilidade** | Análise dos custos, flexibilidade das soluções e capacidade de escalabilidade. |
+| **Reputação, casos de uso, setores servidos** | Avaliação da reputação das empresas, exemplos de casos de uso e setores atendidos. |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que são normativas de cibersegurança?
+As normativas de cibersegurança são diretrizes que visam garantir a segurança cibernética e a conformidade regulatória para empresas que operam em ambientes digitais.
+
+### Quando e por que são necessárias?
+São necessárias para proteger dados sensíveis, garantir a continuidade operacional e cumprir com as regulamentações legais.
+
+### Qual é o custo médio?
+O custo pode variar dependendo do tamanho da empresa e das soluções necessárias, mas geralmente envolve investimentos em tecnologia, consultoria e auditorias.
+
+### Como escolher o fornecedor certo?
+Avalie as competências técnicas, certificações, suporte oferecido e a capacidade de atender às necessidades específicas da sua empresa.
+
+### Quais são as certificações importantes?
+Certificações como ISO 27001, SOC 2 e conformidade com LGPD são cruciais para garantir a segurança e a conformidade regulatória.
+
+### Quais são os benefícios de estar em conformidade?
+Estar em conformidade garante proteção contra ameaças cibernéticas, evita multas regulatórias e melhora a confiança dos clientes.
+
+### Como as normativas impactam a transformação digital?
+Elas garantem que a transformação digital ocorra de forma segura e em conformidade com as regulamentações, protegendo dados e operações.
+
+### Quais são os desafios comuns na implementação?
+Os desafios incluem a complexidade das regulamentações, a necessidade de atualização contínua e a integração de novas tecnologias.
+
+### Como se preparar para futuras atualizações?
+Manter-se atualizado com as mudanças regulatórias, investir em treinamento contínuo e adotar uma abordagem proativa para a segurança cibernética.
+
+### Quais são as tendências futuras?
+Espera-se um aumento na automação de processos de compliance, maior integração de inteligência artificial e um foco crescente em proteção de dados.
