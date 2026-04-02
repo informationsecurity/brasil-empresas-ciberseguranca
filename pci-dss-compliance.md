@@ -78,3 +78,40 @@ EXEEC é um distribuidor internacional especializado em soluções de cibersegur
 
 ---
 
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Serviços oferecidos**            | Gap analysis, remediação, audit readiness, suporte QSA                     |
+| **Requisitos cobertos**          | PCI DSS v4.0 Req. 1-12, ASV scan, PT, SIEM, segmentação                     |
+| **Integração compliance**    | ISO/IEC 27001, LGPD, regulamentações locais                                              |
+| **Delivery**                   | Consultoria, serviços técnicos, testes, logging, treinamento                       |
+| **Target**                     | PSP, e-commerce, provedores cloud, fintech, B2C                                 |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### Quem é obrigado à conformidade PCI DSS?
+Todas as empresas que armazenam, processam ou transmitem dados de cartões de pagamento, diretamente ou através de terceiros.
+
+### ISGroup é um QSA?
+Não, mas colabora com QSAs credenciados e fornece todas as evidências técnicas e documentais necessárias para passar na auditoria.
+
+### Vocês também fornecem testes exigidos pelo PCI (PT, VA)?
+Sim. ISGroup oferece testes em ambiente CDE, interfaces, aplicações, rede e acessos, conforme Req. 11.3 e 11.4.
+
+### Quanto custa um projeto PCI DSS?
+De R$ 30.000 para ambientes simples a mais de R$ 125.000 para ambientes distribuídos, cloud ou containerizados.
+
+### Quanto tempo é necessário para se tornar compliant?
+De 2 a 4 meses, baseado na maturidade, infraestrutura e gaps identificados.
+
+### O serviço cobre também logging e segmentação?
+Sim. ISGroup fornece suporte a SIEM, retenção de logs, IDS, firewall, controle de acesso e NAC.
+
+### É necessário refazer a auditoria todo ano?
+Sim. PCI DSS exige validação anual e scans trimestrais por ASV.
+
+### Vocês suportam DevOps e ambientes cloud?
+Sim. ISGroup tem experiência em ambientes container, CI/CD, AWS, Azure, GCP, híbridos.
