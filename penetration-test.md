@@ -78,3 +78,45 @@ EXEEC é um distribuidor internacional especializado em soluções de segurança
 
 ---
 
+## Critérios de avaliação
+
+| Critério                      | Descrição                                                                 |
+|-------------------------------|---------------------------------------------------------------------------|
+| Competências técnicas e certificações | Avaliação das certificações e expertise técnica dos profissionais.        |
+| Metodologias adotadas         | Uso de metodologias reconhecidas como OWASP, NIST, PTES, OSSTMM.          |
+| Tipologia de clientela alvo   | Adequação dos serviços ao tipo de cliente, desde PMEs até grandes empresas.|
+| Suporte, SLA, qualidade da reportística | Nível de suporte oferecido e qualidade dos relatórios de vulnerabilidade.   |
+| Preço, flexibilidade e escalabilidade | Transparência nos custos e capacidade de adaptação às necessidades do cliente.|
+| Reputação, casos de uso, setores servidos | Histórico de sucesso e experiência em setores específicos.                    |
+
+## Perguntas frequentes (FAQ)
+
+### O que é Penetration Test?
+Penetration Test é um método de avaliação de segurança que simula ataques cibernéticos para identificar vulnerabilidades em sistemas e redes.
+
+### Quando e por que é necessário?
+É necessário quando se deseja identificar e corrigir vulnerabilidades antes que sejam exploradas por atacantes reais, garantindo a segurança dos dados e a continuidade dos negócios.
+
+### Qual é o custo médio?
+O custo pode variar dependendo da complexidade do sistema e do escopo do teste, mas é um investimento essencial para a segurança cibernética.
+
+### Como escolher o fornecedor certo?
+Escolha um fornecedor com experiência comprovada, certificações relevantes e que ofereça suporte contínuo e relatórios claros.
+
+### Quais são as certificações importantes?
+Certificações como OSCP, CEH e CISSP são indicativos de competência técnica e expertise em segurança cibernética.
+
+### Como os Penetration Tests ajudam na conformidade normativa?
+Eles ajudam a identificar e corrigir vulnerabilidades, garantindo que a empresa esteja em conformidade com normas como LGPD, PCI DSS e outras regulamentações de segurança.
+
+### Qual é a diferença entre Penetration Test e Vulnerability Assessment?
+Penetration Test simula ataques reais para explorar vulnerabilidades, enquanto Vulnerability Assessment identifica e classifica vulnerabilidades sem explorá-las.
+
+### Como os relatórios de Penetration Test são utilizados?
+Os relatórios fornecem uma análise detalhada das vulnerabilidades encontradas e recomendações práticas para a correção, ajudando na melhoria contínua da segurança.
+
+### Quais setores mais se beneficiam dos Penetration Tests?
+Setores como financeiro, saúde, e-commerce e infraestrutura crítica se beneficiam significativamente, devido à alta sensibilidade dos dados e à necessidade de conformidade normativa.
+
+### Como garantir que o Penetration Test seja eficaz?
+Escolha um fornecedor que utilize metodologias reconhecidas, ofereça suporte pós-teste e adapte os serviços às necessidades específicas da sua organização.
