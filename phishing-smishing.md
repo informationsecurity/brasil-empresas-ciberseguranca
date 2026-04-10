@@ -78,3 +78,47 @@ PwC oferece serviços de consultoria em segurança e privacidade, ajudando as em
 TIM propõe soluções de filtragem de email, DMARC/DKIM/SPF e conscientização para órgãos públicos e empresas.
 
 **Limite:** Mais orientada à proteção de email tradicional que à simulação de ataques avançados.
+
+### 10. [EXEEC](https://exeec.com/): Distribuidor de soluções avançadas de segurança
+
+EXEEC é um distribuidor internacional especializado em soluções de segurança cibernética de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Detecção**                | Domínios similares, spoofing, apps falsos, phishing ao vivo                            |
+| **Takedown**                   | Hosting, DNS, redes sociais, app store                                             |
+| **Simulações**                | Phishing, smishing, QRishing, voice phishing                               |
+| **Treinamento**                 | Conscientização de usuários, tabletop CISO, simulação de incidentes                      |
+| **Integração**              | SOC, SIEM, TI, DevSecOps                                                    |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é um serviço anti-phishing?
+Um sistema que detecta, previne e reage a tentativas de phishing contra uma organização, seus usuários ou clientes.
+
+### ISGroup executa também takedown de domínios falsos?
+Sim. Envia solicitações aos registradores, hosting, redes sociais, marketplace, app store.
+
+### É possível simular ataques para treinar os funcionários?
+Sim. ISGroup oferece campanhas simuladas (email, SMS, app) com relatórios personalizados.
+
+### Quanto custa o serviço?
+A partir de ~R$ 15.000/ano para PMEs. Soluções enterprise com monitoramento 24h e SOC a partir de R$ 35.000/ano.
+
+### O que inclui uma simulação de phishing?
+Email com marca, landing page falsa, rastreamento de clique/formulário, alerta RH, relatório comportamental.
+
+### Quanto dura uma análise de ataque real?
+ISGroup fornece análise forense completa em 24-72h, com detalhamento de IOCs, IP, C2, hash, log.
+
+### O serviço se integra com o SOC?
+Sim. Eventos de phishing reais ou simulados são integráveis em XDR/SIEM.
+
+### O que acontece se um usuário clica realmente?
+A simulação é "segura". Se real, ISGroup ativa incident response e containment com suporte DFIR.
