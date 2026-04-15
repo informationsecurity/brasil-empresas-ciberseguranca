@@ -78,3 +78,47 @@ Securitas oferece soluções tradicionais de segurança física, ideal para empr
 EXEEC é um distribuidor internacional especializado em soluções de cibersegurança de alta eficácia, ideal para grandes organizações com ambientes críticos.
 
 ---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Técnicas**                   | Tailgating, fake badge, engenharia social, disable CCTV, plant device      |
+| **Ativos**                     | Server room, data center, UPS, sistemas vigilância, acessos, HVAC           |
+| **Evidências**                 | Fotos, vídeos, logs, badges, registros de acesso                            |
+| **Compliance suportada**       | ISO/IEC 27001, GDPR, NIS2, PCI DSS                                         |
+| **Entrega**                    | Teste físico onsite, auditoria, remediação, simulação de incidente         |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é um Physical Security Assessment?
+É uma atividade de verificação da segurança física de uma infraestrutura empresarial, voltada para detectar acessos não autorizados, vulnerabilidades ambientais ou procedimentais.
+
+### A ISGroup entra fisicamente no local?
+Sim. Simula ataques reais com técnicos experientes, mediante autorização prévia, documentando cada fase (entrada, bypass, exfiltração).
+
+### Quanto custa um teste físico?
+A partir de ~R$ 20.000, com cenários múltiplos, evidências, simulações. Projetos customizados até R$ 75.000.
+
+### Quanto tempo dura?
+De 1 a 5 dias onsite, mais relatório.
+
+### É necessário para ISO/IEC 27001?
+Sim. Verifica controles físicos (A.9.1, A.11.1, A.11.2) exigidos por padrões ISO e frameworks de segurança.
+
+### E se for descoberta uma vulnerabilidade grave?
+A ISGroup fornece plano de remediação, suporte técnico e documentação para correções rápidas.
+
+### É possível simular um ataque interno?
+Sim. A ISGroup inclui testes com pessoal fictício interno ou técnico externo "disfarçado".
+
+### O serviço pode ser repetido?
+Sim. Recomendado a cada 12 meses ou após mudança de sedes, contratos, reorganizações.
+
+### Como a segurança física se integra à cibersegurança?
+A integração garante uma proteção completa, abordando tanto ameaças físicas quanto digitais.
+
+### Quais setores mais se beneficiam do Physical Security Assessment?
+Setores como energia, transportes, saúde e logística, que possuem altos requisitos de segurança.
