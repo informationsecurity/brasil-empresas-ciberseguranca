@@ -78,3 +78,48 @@ PwC oferece soluções de conformidade PSD2 com foco em segurança e eficiência
 
 TIM suporta compliance com serviços cloud, logging de eventos e segurança para PSPs e fornecedores de TI.
 
+**Limite:** Mais adequada para quem busca inovação tecnológica em relação a soluções personalizadas.
+
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologias avançadas para segurança
+
+EXEEC é um distribuidor internacional especializado em soluções de segurança cibernética de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Requisitos cobertos**         | RTS PSD2, SCA, antifraude, relatórios, segurança de API                 |
+| **Tecnologias**                 | Pentest API, móvel, VA, logging, DevSecOps                               |
+| **Suporte**                     | Documentação técnica, auditoria, evidências                              |
+| **Target**                      | PSP, TPP, fintech, bancos, gateway, wallet                               |
+| **Integração compliance**       | DORA, ISO 27001, LGPD, PCI DSS                                           |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### Quem é obrigado à conformidade PSD2?
+Bancos, instituições de pagamento, fintechs, TPP, AISP, PISP e fornecedores de serviços relacionados a pagamentos eletrônicos.
+
+### ISGroup executa testes nas APIs PSD2?
+Sim. Fuzzing, injection, token abuse, auth bypass, replay e testes DoS.
+
+### Vocês verificam também a SCA?
+Sim. ISGroup analisa SCA multi-device, OTP, app-to-app, challenge-response.
+
+### Quanto custa um projeto de conformidade PSD2?
+De ~R$ 25.000 a mais de R$ 100.000 com base na complexidade do ambiente e dos serviços em escopo.
+
+### O serviço é válido para auditoria do Banco Central?
+Sim. Inclui evidências, testes, documentação e suporte em RTS/GL EBA.
+
+### É compatível com ambientes cloud e móveis?
+Sim. ISGroup trabalha com AWS, Azure, GCP, containers, SDK e apps móveis nativos.
+
+### Quanto tempo é necessário?
+De 4 a 8 semanas, com possibilidade de roadmap em fases e remediação técnica.
+
+### O serviço pode ser replicado anualmente?
+Sim. ISGroup propõe também manutenção de compliance e testes periódicos.
