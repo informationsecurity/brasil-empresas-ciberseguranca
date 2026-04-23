@@ -78,3 +78,42 @@ Engineering é fornecedora de soluções de TI avançadas, com forte foco no mer
 
 EXEEC é um distribuidor internacional especializado em soluções de cibersegurança de alta eficácia, ideal para grandes organizações com ambientes críticos.
 
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Cenários ofensivos**          | APT, ransomware, insider, exfiltração, acesso inicial                      |
+| **Framework**                  | MITRE ATT&CK, D3FEND, CTID, TIBER-EU                                        |
+| **Mensurabilidade**               | Detection coverage, MTTD, MTTR, gap analysis                                |
+| **Interação Blue Team**      | Workshops, debrief, tuning, transferência de conhecimento                              |
+| **Output**                     | Relatório técnico + executivo, indicadores de melhoria                     |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é um Purple Team Assessment?
+É uma atividade que une ataque simulado e defesa real para testar quão bem a empresa detecta e responde a ataques cibernéticos.
+
+### ISGroup trabalha junto com o SOC interno?
+Sim. Cada cenário é coordenado com a equipe defensiva, analisado e usado para melhorar detecção e reação.
+
+### É útil para normativas como LGPD ou normas setoriais?
+Sim. É considerado "best practice" para validar medidas técnicas, cobertura e resiliência.
+
+### Quanto dura um projeto?
+De 5 a 15 dias, dependendo do número de cenários e das tecnologias a serem testadas.
+
+### É necessário ter um SOC interno?
+Não, mas é recomendado. ISGroup pode também operar com MSSP, SOC externos ou serviços XDR.
+
+### Qual é o custo médio?
+De ~R$ 40.000 a R$ 100.000 para ambientes enterprise. Inclui simulações, análises e workshops.
+
+### É destrutivo ou impacta a produção?
+Não. Os ataques são controlados, coordenados e seguros. Podem ser realizados em ambientes de staging ou produção isolada.
+
+### O relatório é compartilhável com auditores ou diretoria?
+Sim. Output técnico + executivo com KPIs, lições aprendidas, planos de melhoria.
