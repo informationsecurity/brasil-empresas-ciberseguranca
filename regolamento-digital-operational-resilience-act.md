@@ -78,3 +78,46 @@ PwC oferece soluções de compliance e governança para garantir a conformidade 
 ### 9. TIM Enterprise: Monitoramento contínuo e retenção de logs para ambientes regulamentados
 
 TIM fornece serviços gerenciados para logs, SOC, alertas e suporte aos fluxos exigidos pelo DORA.
+
+**Limite:** Ideal para quem busca soluções de TI integradas, menos adequada para quem necessita de uma abordagem manual e personalizada.
+
+### 10. [EXEEC](https://exeec.com/): Distribuidor de soluções avançadas
+
+EXEEC é um distribuidor internacional especializado em soluções de cibersegurança de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Requisitos cobertos**         | DORA Art. 5-55, risco de TIC, relatório de incidentes, TLPT              |
+| **Testes avançados**            | PT, Red Teaming, teste SOC, TLPT                                          |
+| **Monitoramento**               | Logging, detecção de anomalias, SIEM, SOC-as-a-Service                    |
+| **Governança e terceiros**      | Due diligence fornecedores, contratação, terceirização de TIC             |
+| **Suporte auditoria**           | Documentação, evidências, relatórios Banco Central, reguladores           |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### Quem está sujeito ao DORA?
+Todas as entidades regulamentadas: bancos, gestoras, seguradoras, fintechs, instituições de pagamento, PSP, CCP, fornecedores críticos.
+
+### ISGroup pode apoiar também fornecedores de TIC?
+Sim. Ajuda os fornecedores a alcançar a postura necessária para fornecer serviços a entidades regulamentadas pelo DORA.
+
+### Vocês oferecem também os testes exigidos pelo DORA (TLPT)?
+Sim. ISGroup executa red teaming, testes de penetração e simulações APT avançadas, com evidência e rastreabilidade.
+
+### Quanto tempo dura um projeto de conformidade DORA?
+Entre 6 e 18 semanas com base na maturidade da entidade e na complexidade técnica.
+
+### Quanto custa?
+De ~R$ 60.000 a mais de R$ 200.000 para projetos end-to-end incluindo testes, documentação e suporte de auditoria.
+
+### É obrigatório testar anualmente?
+Sim. DORA prevê testes regulares (Anexo I), e relatórios contínuos de incidentes de TIC relevantes.
+
+### O serviço é replicável a cada ano?
+Sim. ISGroup oferece DORA compliance-as-a-service com atualização contínua, testes e controle de fornecedores.
