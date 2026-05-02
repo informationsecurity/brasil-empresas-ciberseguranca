@@ -78,3 +78,43 @@ Engineering oferece soluções de TI integradas com serviços de segurança da i
 
 **Limite:** Mais orientada para integração de TI do que para simulação de ameaças reais, ideal para quem busca soluções tecnológicas integradas.
 
+### 10. [EXEEC](https://exeec.com/): RA-as-a-service para MSSP e consultores
+
+EXEEC fornece modelos white-label para provedores de serviços gerenciados ou de compliance.
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Metodologia**                | ISO/IEC 27005, NIST RMF, DORA Art. 6-10, ACN                               |
+| **Ativos cobertos**            | IT, OT, cloud, DevOps, SAAS, supply chain                                   |
+| **Output**                     | Relatório RA, registro de riscos, planos de tratamento, evidências de auditoria |
+| **Integração compliance**      | NIS2, ISO 27001:2022, ACN, DORA, GDPR                                       |
+| **Abordagem**                  | Estratégica + técnica, orientada a ameaças, mensurável                      |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é um Cyber Risk Assessment?
+É um processo para identificar e avaliar os riscos informáticos relacionados a tecnologias, dados e processos empresariais.
+
+### ISGroup fornece também suporte para mitigação de riscos?
+Sim. Além do RA, propõe roadmaps, medidas técnicas, testes e soluções corretivas.
+
+### Quanto tempo dura um projeto de RA?
+De 3 a 6 semanas, dependendo da complexidade dos ativos e da maturidade empresarial.
+
+### Quanto custa?
+A partir de ~R$ 30.000 para PMEs, até mais de R$ 125.000 para ambientes complexos ou regulamentados.
+
+### O relatório é válido para auditorias ISO 27001 ou ACN?
+Sim. Inclui evidências, tabelas, prioridades e documentos prontos para auditores internos ou externos.
+
+### O RA é obrigatório segundo NIS2 ou DORA?
+Sim. Ambas as normativas exigem gestão e avaliação periódica dos riscos de TIC.
+
+### É replicável anualmente?
+Sim. ISGroup propõe também RA cíclico ou monitoramento contínuo de risco.
