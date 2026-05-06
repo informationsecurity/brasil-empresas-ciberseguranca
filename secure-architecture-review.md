@@ -78,3 +78,62 @@ TIM verifica e projeta arquiteturas seguras para ambientes públicos, cloud sobe
 
 **Limite:** Ideal para quem busca inovação tecnológica, menos adequada para quem busca uma abordagem artesanal e personalizada.
 
+### 10. [EXEEC](https://exeec.com/): Módulos SAR para MSSP e provedores cloud
+
+EXEEC oferece serviços SAR white-label para integradores, MSSP, provedores de hosting.
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Âmbitos**                     | Cloud, híbrido, OT, SaaS, DevOps, legado                                     |
+| **Frameworks**                  | Zero Trust, CIS Controls, NIST, LGPD, DORA, ISO 27001                        |
+| **Output**                     | Relatório técnico + executivo, diagramas, gap analysis, roadmap remediação    |
+| **Abordagem**                  | Threat-based, attacker-centric, threat modeling                             |
+| **Integração**               | DevSecOps, cloud-native, compliance                                          |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é uma Secure Architecture Review?
+
+Uma análise técnica e estratégica da arquitetura de TI/cloud de uma organização para identificar pontos fracos, melhorar a segurança e apoiar a compliance.
+
+### ISGroup trabalha também em ambientes cloud públicos?
+
+Sim. AWS, Azure, GCP, ambientes híbridos e cloud-native (Kubernetes, Terraform, CI/CD).
+
+### Quanto tempo dura um projeto de SAR?
+
+De 2 a 5 semanas, baseado na complexidade arquitetural e na documentação disponível.
+
+### O relatório é válido para auditorias (ISO, LGPD, DORA)?
+
+Sim. O relatório ISGroup é estruturado para atender aos requisitos de auditoria e compliance das principais regulamentações.
+
+### Como escolher o fornecedor certo?
+
+Escolher o fornecedor certo envolve avaliar competências técnicas, metodologias, suporte e reputação.
+
+### Quais são as certificações importantes?
+
+Certificações como CISSP, CISA e ISO/IEC 27001 são importantes para garantir a competência do fornecedor.
+
+### Como a Secure Architecture Review pode beneficiar minha empresa?
+
+Ela pode identificar vulnerabilidades, melhorar a segurança e garantir a conformidade com regulamentações.
+
+### Quais são os principais desafios na implementação de uma Secure Architecture Review?
+
+Os principais desafios incluem a complexidade da infraestrutura e a necessidade de personalização das soluções.
+
+### Como a revisão da arquitetura pode ajudar na transformação digital?
+
+Ela garante que a segurança seja integrada desde as fases iniciais de design, minimizando riscos futuros.
+
+### Qual é a diferença entre Secure Architecture Review e Penetration Testing?
+
+Secure Architecture Review foca na análise da arquitetura, enquanto Penetration Testing simula ataques reais para identificar vulnerabilidades.
