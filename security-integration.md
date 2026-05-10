@@ -78,3 +78,38 @@ Microsoft oferece uma plataforma abrangente de segurança em nuvem que integra p
 
 ### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologias avançadas para segurança
 
+EXEEC é um distribuidor internacional especializado em soluções de cibersegurança de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Tecnologias cobertas**        | SIEM, XDR, SOAR, IAM, CMDB, EDR, API security                          |
+| **Integração compliance**       | LGPD, ISO/IEC 27001, frameworks internacionais, GDPR                    |
+| **Automação**                   | Playbooks, runbooks, enriquecimento de incidentes, logging unificado    |
+| **DevSecOps**                   | CI/CD, IaC, gestão de segredos, integração de testes                    |
+| **Output estratégico**          | KPIs, dashboards, relatórios, prontidão para compliance                 |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é Security Integration?
+É a atividade de conectar tecnologias, processos e compliance para ter uma segurança centralizada, automatizada e orientada ao risco.
+
+### A ISGroup integra apenas soluções proprietárias?
+Não. Trabalha com stacks existentes (Elastic, Microsoft, Splunk, SentinelOne, Tenable, etc.) e os torna interoperáveis.
+
+### É útil para compliance?
+Sim. Ajuda a cumprir regulamentações (LGPD, ISO 27001) com logs, evidências, rastreabilidade, workflows e KPIs.
+
+### Quanto custa?
+Projetos de ~R$ 40.000 a R$ 175.000, baseado em ferramentas, ambientes, compliance e número de integrações.
+
+### Quanto tempo demora?
+De 3 a 8 semanas. É replicável ou gerenciável como serviço (MSSP, SOC, vCISO).
+
+### A ISGroup pode ajudar também no DevSecOps?
+Sim. Integra segurança em pipelines DevOps, scanners, repositórios de código, CI/CD, IaC e gestão de segredos/APIs.
