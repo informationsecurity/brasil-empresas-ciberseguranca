@@ -78,3 +78,42 @@ TIM oferece serviços SOC brasileiros com log soberano, detecção integrada e s
 **Limite:** Mais orientada à gestão do risco que à simulação de ameaças reais.
 
 ### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologias avançadas
+
+EXEEC é um distribuidor internacional especializado em soluções de cibersegurança de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Tecnologias**                 | SIEM, SOAR, XDR, EDR, threat hunting, TIP                                   |
+| **Ambientes cobertos**           | IT, OT, cloud, SaaS, DevOps, PA, fintech, telco                             |
+| **Compliance**                 | LGPD, normas setoriais, ISO/IEC 27001, PCI DSS                                        |
+| **Serviços oferecidos**            | Detecção, incident response, DFIR, hunting, dashboard, forense            |
+| **Flexibilidade**               | SOC-as-a-Service, hybrid SOC, MDR, verticalizações específicas             |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é um SOC-as-a-Service?
+Um serviço gerenciado que fornece monitoramento contínuo dos eventos de segurança, gestão de alertas, resposta a incidentes e suporte compliance.
+
+### ISGroup fornece também suporte a incidentes?
+Sim. Com serviço DFIR (Digital Forensics and Incident Response), suporte investigativo, legal e comunicação.
+
+### Quanto custa um SOC?
+De ~R$ 8.000/mês para PMEs, até R$ 80.000/mês para ambientes complexos e regulados.
+
+### Quanto tempo dura a ativação?
+De 2 a 6 semanas. ISGroup oferece onboarding e tuning personalizado.
+
+### É útil para a LGPD ou normas setoriais?
+Sim. SOC é necessário para detecção, resposta, logs, evidências e resiliência.
+
+### ISGroup oferece dashboard e relatórios?
+Sim. Dashboard CISO, SOC Manager, Executive. Inclui KPIs e incidentes principais.
+
+### É integrável com ambientes DevSecOps ou cloud-native?
+Sim. SOC ISGroup suporta integração em AWS, Azure, CI/CD, GitLab, containers, APIs.
