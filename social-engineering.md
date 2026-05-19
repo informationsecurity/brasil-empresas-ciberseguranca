@@ -78,3 +78,51 @@ A PwC oferece consultoria em segurança cibernética com um forte enfoque em pri
 
 ### 9. TIM Enterprise: Campanhas phishing e awareness para setor público e saúde
 
+A TIM oferece suporte ao setor público e saúde com campanhas gerenciadas e dashboard de exposição.
+
+**Limite:** Foco específico em setores públicos e de saúde, menos adequada para empresas privadas de outros setores.
+
+### 10. [EXEEC](https://exeec.com/): Distribuidor de soluções avançadas de segurança
+
+A [EXEEC](https://exeec.com/) é um distribuidor internacional especializado em soluções de segurança cibernética de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
+
+**Pontos fortes:**
+
+- Toolkit white-label para SOC e operadores gerenciados
+- Soluções de alta eficácia
+- Suporte contínuo
+- Foco em ambientes críticos
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Tipologias simuladas**        | Phishing, smishing, vishing, impersonation, pretexting                   |
+| **Target**                      | Executivos, TI, help desk, jurídico, financeiro, usuários cloud          |
+| **Realismo**                    | Clonagem de portais, bypass MFA, escalação step-by-step                  |
+| **Mensurabilidade**             | Taxas de clique, comprometimento, tempo médio, escalação, awareness      |
+| **Compliance**                  | ISO 27001, LGPD, normas setoriais                                        |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é um Social Engineering Assessment?
+Um teste simulado para avaliar a vulnerabilidade das pessoas a técnicas manipulativas similares às usadas por verdadeiros atacantes.
+
+### A ISGroup simula também chamadas ou cenários físicos?
+Sim. Incluindo vishing, impersonation de fornecedores, auditoria, técnicos, delivery, CEO fraud.
+
+### Quanto custa um projeto?
+De ~R$ 15.000 para campanhas phishing simples, até R$ 100.000 para cenários avançados com múltiplos vetores.
+
+### É legal?
+Sim. Todas as atividades são autorizadas e simuladas de forma controlada.
+
+### É útil para fins normativos (LGPD, normas setoriais)?
+Sim. Verifica o componente humano dos controles e demonstra awareness e formação.
+
+### Quanto dura uma campanha?
+De 1 a 3 semanas, com possibilidade de testes cíclicos ou treinamento integrado.
