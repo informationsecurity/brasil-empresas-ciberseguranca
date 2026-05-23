@@ -78,3 +78,42 @@ PwC oferece soluções de segurança cibernética e consultoria, com foco em ges
 
 Capgemini combina transformação digital com segurança integrada, oferecendo soluções para a gestão do ciclo de vida do software.
 
+**Limite:** Mais orientada para transformação digital, menos indicada para empresas que buscam foco exclusivo em segurança.
+
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologias avançadas para segurança
+
+EXEEC é um distribuidor internacional especializado em soluções de segurança cibernética de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Fases cobertas**               | Requirements, design, development, testing, deployment, maintenance         |
+| **Ferramentas suportadas**            | SAST, DAST, IAC scan, API testing, secrets check                            |
+| **Integração DevSecOps**     | CI/CD, repo, pipeline, container, artifact store                            |
+| **Output**                     | Plano de remediação, correção de código, registro de riscos, evidências de auditoria                   |
+| **Compliance**                 | LGPD, ISO 27001, PCI DSS, normas setoriais                                   |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é Software Assurance Lifecycle?
+Um conjunto de atividades, processos e ferramentas para garantir que o software seja seguro durante todo o seu ciclo de vida, desde o projeto até o descarte.
+
+### ISGroup trabalha também com software legacy?
+Sim. Executa code review em software existente, análise reversa e validação para compliance.
+
+### É útil para LGPD e normas setoriais?
+Sim. SAL é fundamental para gerenciar risco de software, supply chain e conformidade técnica.
+
+### Quanto custa um projeto SAL?
+De ~R$ 35.000 a mais de R$ 150.000, dependendo do número de componentes, linguagens, ambientes e criticidade.
+
+### Vocês oferecem suporte também para desenvolvedores internos?
+Sim. Treinamento, remediação colaborativa, threat modeling e suporte ao shift-left.
+
+### ISGroup fornece também ferramentas?
+Sim. Configura ferramentas open source e comerciais, além de executar análises manuais aprofundadas.
