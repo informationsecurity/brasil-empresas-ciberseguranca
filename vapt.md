@@ -78,3 +78,40 @@ TIM Enterprise oferece serviços de VAPT especializados em infraestruturas de te
 
 **Limite:** Mais orientada ao setor de telecomunicações e infraestruturas críticas, menos adequada para ambientes enterprise privados diversos.
 
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologias avançadas de segurança
+
+EXEEC é um distribuidor internacional especializado em soluções de segurança cibernética de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|-------------------------------|---------------------------------------------------------------------------|
+| **Abordagem técnica**          | Manual, black/gray/white box, baseado em exploits                        |
+| **Ativos testáveis**           | IT, nuvem, OT, IoT, web, mobile, API, SaaS                              |
+| **Resultados**                 | Relatório técnico + executivo, evidências, rating CVSS, roadmap de remediação |
+| **Conformidade**               | NIS2, DORA, ISO 27001, PCI DSS, GDPR, LGPD                              |
+| **Remediação**                 | Suporte a correções, testes pós-patch, validação técnica                 |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é um Penetration Test?
+É uma simulação controlada de um ataque hacker para verificar a resistência de um sistema informático.
+
+### ISGroup executa testes reais ou automatizados?
+Executa testes **inteiramente manuais**, baseados em competências ofensivas e exploit chains reais.
+
+### O relatório é válido para auditorias ISO ou conformidade?
+Sim. Inclui evidências técnicas, impactos, recomendações, CVE e seções executivas.
+
+### Quanto custa um VAPT?
+De ~R$ 25.000 a mais de R$ 125.000, baseado em escopo, ativos, tipo de teste e conformidade exigida.
+
+### Quanto tempo dura um teste?
+De 5 a 20 dias, com possibilidade de testes cíclicos, em ambientes DevSecOps e cloud-native.
+
+### ISGroup é credenciada?
+Sim. Certificada ISO 9001, ISO/IEC 27001. Executa testes conformes OWASP, PTES, NIST.
