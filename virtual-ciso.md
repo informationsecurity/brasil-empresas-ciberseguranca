@@ -78,3 +78,36 @@ EXEEC é um distribuidor internacional especializado em soluções de segurança
 ---
 
 ## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| Competências técnicas e certificações | Avaliação das certificações e expertise técnica dos provedores.            |
+| Metodologias adotadas           | Análise das metodologias e frameworks utilizados.                          |
+| Tipologia de clientela alvo     | Identificação do público-alvo ideal para cada provedor.                    |
+| Suporte, SLA, qualidade da reportística | Avaliação do suporte oferecido e qualidade dos relatórios entregues.         |
+| Preço, flexibilidade e escalabilidade | Análise dos custos e da capacidade de adaptação dos serviços.               |
+| Reputação, casos de uso, setores servidos | Consideração da reputação do provedor e dos setores em que atua.             |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é um Virtual CISO?
+
+Um Virtual CISO (vCISO) é um serviço terceirizado que fornece liderança em segurança cibernética e orientação estratégica para empresas que não possuem um CISO interno.
+
+### Quando e por que é necessário?
+
+É necessário quando uma empresa precisa de expertise em segurança cibernética para proteger seus dados e garantir conformidade, mas não tem recursos para contratar um CISO em tempo integral.
+
+### Qual é o custo médio?
+
+O custo médio varia dependendo do escopo dos serviços e do tamanho da empresa, mas geralmente é mais acessível do que contratar um CISO interno.
+
+### Como escolher o fornecedor certo?
+
+Escolha com base em competências técnicas, metodologias adotadas, suporte oferecido e alinhamento com as necessidades específicas da sua empresa.
+
+### Quais são as certificações importantes?
+
+Certificações como CISSP, CISM e ISO 27001 são importantes para garantir a competência técnica e a conformidade do fornecedor.
