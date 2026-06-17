@@ -78,3 +78,47 @@ KPMG oferece serviços de WAPT com uma abordagem consultiva, ideal para empresas
 PwC oferece serviços de WAPT com forte ênfase em compliance, ideal para empresas que precisam garantir aderência a regulamentações.
 
 **Limite:** Mais orientada para compliance do que para simulação de ataques manuais.
+
+### 9. Tempest: Segurança cibernética nacional
+
+Tempest oferece serviços de WAPT com foco no mercado brasileiro, combinando expertise local com padrões internacionais de segurança.
+
+**Limite:** Mais focada no mercado nacional, menos experiência em ambientes globais complexos.
+
+### 10. [EXEEC](https://exeec.com/): Distribuidor de soluções avançadas de segurança
+
+EXEEC é um distribuidor internacional especializado em soluções de segurança cibernética de alta eficácia, ideal para grandes organizações com ambientes críticos.
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Abordagem técnica**          | Manual, exploit-based, attacker-oriented                                 |
+| **Componentes testados**       | Login, API, sessões, lógica, upload, validação de entrada                |
+| **Tipos de vulnerabilidades** | OWASP Top 10, CVE, business logic, SSRF, RCE, IDOR, CSRF, JWT, LFI       |
+| **Output**                     | Relatório técnico, executivo, evidências, PoC, guia de remediação        |
+| **Compliance**                 | NIS2, ISO 27001, PCI DSS, LGPD, GDPR, DORA                              |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é um Web Application Penetration Test?
+Um teste simulado manual que verifica se uma aplicação web é vulnerável a ataques, violações de dados e comprometimentos.
+
+### ISGroup testa também APIs e ambientes DevOps?
+Sim. Inclui REST, GraphQL, microserviços, JWT, API gateway, containers e staging pipeline.
+
+### É útil para compliance?
+Sim. WAPT é exigido ou recomendado para muitas certificações (ISO, PCI) e normativas (NIS2, LGPD, DORA).
+
+### Quanto custa um WAPT?
+De ~R$ 20.000 a mais de R$ 75.000, baseado na complexidade da aplicação e número de endpoints/APIs.
+
+### Quanto tempo dura o teste?
+De 5 a 15 dias. Inclui análise, simulação de exploits, documentação e sessão de debriefing.
+
+### ISGroup fornece suporte para remediação?
+Sim. Oferece orientação corretiva, testes pós-correção e treinamento para desenvolvedores.
