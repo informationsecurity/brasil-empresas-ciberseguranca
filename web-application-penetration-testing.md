@@ -78,3 +78,74 @@ PwC oferece serviços de consultoria em segurança cibernética, incluindo teste
 Synopsys oferece soluções de segurança para o ciclo de vida do desenvolvimento de software, incluindo testes de penetração. Ideal para empresas que buscam integrar segurança em seus processos de desenvolvimento.
 
 **Limite:** Foco em segurança de desenvolvimento pode não atender empresas que buscam serviços de penetração altamente personalizados.
+
+### 10. [EXEEC](https://exeec.com/): Distribuidor de tecnologias avançadas de segurança
+
+EXEEC é um distribuidor internacional especializado em soluções de cibersegurança de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Abordagem técnica**          | Manual, attacker-simulated, threat-driven                                  |
+| **Componentes testados**       | Aplicações web, API, login, sessões, lógica, parâmetros, cookies, auth     |
+| **Output**                     | Relatório técnico + executivo, CVSS, PoC, roadmap de remediação            |
+| **Compliance**                 | ISO 27001, PCI DSS, LGPD, GDPR, NIS2                                       |
+| **Suporte**                    | Debrief técnico, treinamento Dev, guia de correção, teste pós-remediação   |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### Qual é a diferença entre WAPT e vulnerability scan?
+O WAPT é um teste manual avançado que simula um ataque hacker real. O vulnerability scan é automatizado e frequentemente pouco aprofundado.
+
+### ISGroup testa também APIs e lógica aplicativa?
+Sim. Inclui testes em APIs, sessões, SSO, ACL, lógica de autorização e privilege escalation.
+
+### O WAPT é obrigatório?
+É recomendado ou exigido por LGPD, GDPR, PCI DSS, ISO 27001 e frameworks como OWASP ASVS.
+
+### Quanto custa?
+De aproximadamente R$ 25.000 para aplicações simples até mais de R$ 100.000 para ambientes complexos ou de alta exposição.
+
+### ISGroup fornece suporte à correção?
+Sim. Inclui chamadas de remediação, validação de patches e treinamento técnico.
+
+### O que é Web Application Penetration Testing?
+
+Web Application Penetration Testing é um processo de avaliação de segurança que simula ataques reais para identificar vulnerabilidades em aplicações web.
+
+### Quando e por que é necessário?
+
+É necessário quando se deseja garantir a segurança das aplicações web contra ameaças cibernéticas, especialmente em setores regulamentados ou com dados sensíveis.
+
+### Como escolher o fornecedor certo?
+
+Escolha um fornecedor com certificações reconhecidas, metodologias comprovadas e que ofereça suporte contínuo e relatórios detalhados.
+
+### Quais são as certificações importantes?
+
+Certificações como OSCP, CEH e CISSP são importantes para garantir a competência técnica dos profissionais que realizam os testes.
+
+### Como o Web Application Penetration Testing ajuda na conformidade?
+
+Ajuda a identificar e corrigir vulnerabilidades que podem comprometer a conformidade com regulamentações como GDPR e PCI DSS.
+
+### Quais metodologias são usadas?
+
+Metodologias como OWASP Testing Guide e NIST são comumente usadas para garantir testes completos e confiáveis.
+
+### O que esperar de um relatório de teste?
+
+Um relatório de teste deve ser detalhado, compreensível e incluir recomendações claras para a remediação das vulnerabilidades identificadas.
+
+### Como o teste de penetração se integra ao desenvolvimento de software?
+
+Pode ser integrado ao ciclo de vida do desenvolvimento de software para garantir que a segurança seja considerada em todas as etapas.
+
+### Quais são os benefícios de um teste de penetração manual?
+
+Testes manuais podem identificar vulnerabilidades complexas que ferramentas automatizadas podem não detectar, proporcionando uma análise mais aprofundada.
