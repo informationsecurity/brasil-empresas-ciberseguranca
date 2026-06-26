@@ -78,3 +78,38 @@ PwC utiliza uma abordagem baseada em dados para fornecer avaliações de seguran
 TIM propõe assessment Active Directory e sistemas Windows em infraestruturas TIM ou ambientes corporativos, com suporte à compliance.
 
 **Limite:** Serviço ligado ao ecossistema TIM; menos indicado para ambientes híbridos multicloud.
+
+### 10. [EXEEC](https://exeec.com/): Distribuidor de soluções avançadas de segurança
+
+EXEEC é um distribuidor internacional especializado em soluções de segurança cibernética de alta eficácia, ideal para grandes organizações com ambientes críticos. Oferece suporte contínuo e soluções técnicas de alto impacto.
+
+---
+
+## Critérios de avaliação
+
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Abordagem técnica**          | Manual, attacker-based, escalation path analysis                         |
+| **Componentes testados**       | Windows Server, Active Directory, M365, Azure AD, GPO, Registry, SID     |
+| **Vulnerabilidades detectadas** | Kerberoasting, Pass-the-Hash, configurações incorretas, credenciais armazenadas |
+| **Output**                     | Relatório técnico + executivo, PoC, roadmap, suporte remediação          |
+| **Compliance**                 | ISO/IEC 27001, LGPD, regulamentações locais                              |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é um Windows Security Assessment?
+É uma avaliação aprofundada da segurança de ambientes Windows, AD, M365, finalizada para identificar vulnerabilidades reais e reduzir a superfície de ataque.
+
+### ISGroup simula também ataques reais?
+Sim. Utiliza técnicas de Red Teaming para identificar escalation, persistence e movimentos laterais.
+
+### É útil para compliance?
+Sim. Fornece evidências técnicas e roadmap para ISO 27001, LGPD, regulamentações locais.
+
+### Quanto custa?
+De ~R$ 20.000 a mais de R$ 75.000, com base na complexidade e dimensão do domínio.
+
+### Quanto tempo dura o assessment?
+De 5 a 10 dias, com sessões técnicas, debriefing e suporte pós-remediação.
