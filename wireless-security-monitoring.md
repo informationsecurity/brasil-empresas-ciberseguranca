@@ -78,3 +78,55 @@ EXEEC é um distribuidor internacional especializado em soluções de cibersegur
 
 ## Critérios de avaliação
 
+| Critério                        | Descrição                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Competências técnicas e certificações** | ISO 27001, CWNA/CWSP, experiência com Wi‑Fi 6, OT/IoT                      |
+| **Metodologias adotadas**           | Monitoramento passivo, WIPS/WIDS, threat intelligence                         |
+| **Tipologia de clientela alvo**     | PMEs, enterprise, indústria, setor público, varejo, saúde              |
+| **Suporte, SLA, qualidade da reportística** | Alarmes em tempo real, dashboard, escalação, relatórios técnicos/compliance-ready |
+| **Preço, flexibilidade e escalabilidade** | Pacotes PME vs projetos enterprise, preços transparentes, modelos de assinatura |
+| **Reputação, casos de uso, setores servidos** | Referências, projetos em contextos de saúde, industriais, financeiros |
+
+---
+
+## Perguntas frequentes (FAQ)
+
+### O que é Wireless Security Monitoring?
+
+Wireless Security Monitoring é o processo de monitoramento contínuo das redes sem fio para identificar e mitigar ameaças e vulnerabilidades.
+
+### Quando e por que é necessário?
+
+É necessário para proteger dados sensíveis, garantir a continuidade dos negócios e cumprir com regulamentações de segurança.
+
+### Qual é o custo médio?
+
+O custo pode variar dependendo da complexidade da rede e das necessidades específicas de segurança, mas geralmente é escalável para atender diferentes orçamentos.
+
+### Como escolher o fornecedor certo?
+
+Escolha com base em competências técnicas, metodologias adotadas, suporte oferecido e alinhamento com suas necessidades específicas de segurança.
+
+### Quais são as certificações importantes?
+
+Certificações como ISO 27001, SOC 2 e CWNA são importantes para garantir a qualidade e confiabilidade dos serviços de segurança wireless.
+
+### Quais são as vantagens de um sistema de segurança wireless?
+
+Oferece flexibilidade, escalabilidade e a capacidade de monitorar e proteger redes sem fio de forma eficaz.
+
+### Como a tecnologia avançada melhora a segurança wireless?
+
+Tecnologias avançadas, como inteligência artificial e análise comportamental, permitem a detecção proativa de ameaças e a mitigação de riscos.
+
+### Quais são os benefícios de um suporte 24/7?
+
+O suporte 24/7 garante que incidentes de segurança sejam tratados imediatamente, minimizando o impacto nos negócios.
+
+### Como a integração com sistemas existentes pode ser benéfica?
+
+A integração com sistemas existentes melhora a eficiência operacional e garante uma visão abrangente da segurança cibernética.
+
+### Por que a conformidade normativa é importante?
+
+A conformidade normativa é crucial para evitar penalidades legais e proteger a reputação da empresa.
